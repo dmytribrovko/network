@@ -1,0 +1,1 @@
+AWS module to create a VPC with create public subnets, private subnets with nat, in different availability zones
